@@ -7,22 +7,23 @@ a student at the <strong>University of Auckland</strong>.
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 I'm still learning and using this GitHub to display the knowledge and projects I'm building along the way.
 
 - Computer Science fundamentals
 - Python
+- SQL
 - Git & GitHub
 - Problem solving & algorithms
 
 ---
 
-### 🚀 Goals
-- Build strong programming fundamentals
+### Goals
+- Build strong programming skills
 - Work on meaningful projects
 - Prepare for internships in software / AI
 
 ---
 
-### 📫 Connect
+### Connect 
 - GitHub: https://github.com/JotinderBhamra
