@@ -1,4 +1,28 @@
-## Hi there 🙈
-I'm [Jotinder]([https://github.com/JotinderBhamra]), a student at the University of Auckland.
+<h2>Hi there 🙈</h2>
 
-**Currently still learning and displaying the knowledge I'm learning here: **
+<p>
+I'm <strong><a href="https://github.com/JotinderBhamra">Jotinder</a></strong>,  
+a student at the <strong>University of Auckland</strong>.
+</p>
+
+---
+
+### 📚 Currently Learning
+I'm still learning and using this GitHub to display the knowledge and projects I'm building along the way.
+
+- Computer Science fundamentals
+- Python
+- Git & GitHub
+- Problem solving & algorithms
+
+---
+
+### 🚀 Goals
+- Build strong programming fundamentals
+- Work on meaningful projects
+- Prepare for internships in software / AI
+
+---
+
+### 📫 Connect
+- GitHub: https://github.com/JotinderBhamra
