@@ -26,4 +26,4 @@ I'm still learning and using this GitHub to display the knowledge and projects I
 ---
 
 ### Connect 
-- GitHub: https://jotinderbhamra.github.io/
+- https://jotinderbhamra.github.io/
